@@ -1,1 +1,1 @@
-console.log("Im linked, says app.js!");
+console.log("Im linked to html, says app.js!");
