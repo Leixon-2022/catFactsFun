@@ -51,6 +51,11 @@
     box-shadow: 2px 2px 5px grey;
   }
 
+  .pressed {
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+  }
+
   @media (max-width: 480px) {
 
     .cat-fact-container {
