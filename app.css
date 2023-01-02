@@ -10,8 +10,8 @@
   }
 
   img {
-    height: 12rem;
-    width: 12rem;
+    height: 8rem;
+    width: 8rem;
   }
 
   h1 {
@@ -26,7 +26,7 @@
 
 .cat-fact-container {
     border: 0.2rem solid #ccc;
-    padding: 2rem;
+    padding: 1rem;
     margin: 2rem;
     border-radius: 1rem;
     background-color: beige;
@@ -37,11 +37,11 @@
     font-size: 1.6rem;
   }
   .counting {
-    padding-top: 1rem;
+    padding-top: 0.5rem;
   }
 
   button {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     background-color: olive;
     color: white;
     font-weight: bold;
